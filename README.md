@@ -6,24 +6,6 @@
 ![Canvas](https://img.shields.io/badge/Render-Canvas%202D-blueviolet)
 ![Yandex Games SDK](https://img.shields.io/badge/Yandex%20Games-SDK%20v2-red)
 
----
-
-## Скриншоты
-
-**Главное меню**
-![Главное меню](screenshots/01-menu.png)
-
-**Выбор персонажа**
-![Выбор персонажа](screenshots/02-character-select.png)
-
-**Бой, волна 14**
-![Бой на 14-й волне](screenshots/03-gameplay.png)
-
-**Финальный босс — Огромный Демон**
-![Бой с финальным боссом](screenshots/04-boss-fight.png)
-
----
-
 ## Геймплей
 
 - **4 играбельных персонажа** с разной статистикой и визуалом: Рыцарь (танк со щитом), Маг (урон и скорость атаки), Разбойник (скорость и крит), Некромант (регенерация).
